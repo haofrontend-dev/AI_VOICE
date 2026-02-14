@@ -25,11 +25,11 @@ Bạn có thể tải 3 ảnh (được cung cấp kèm theo) vào các đườn
 
 Hình minh họa:
 
-![Bước chọn Runtime -> Change runtime type](./image2.png)
+![Bước chọn Runtime -> Change runtime type](./AI_Vioce/image2.png)
 
-![Chọn GPU (T4) trong dialog Change runtime type](image3.png)
+![Chọn GPU (T4) trong dialog Change runtime type](./AI_Vioce/image3.png)
 
-![Xác nhận và Save để bật GPU](./image1.png)
+![Xác nhận và Save để bật GPU](./AI_Vioce/image1.png)
 
 3) (Tùy chọn) Mount Google Drive nếu bạn cần truy xuất dữ liệu hoặc lưu file:
 
